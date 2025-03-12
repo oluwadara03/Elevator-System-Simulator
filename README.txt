@@ -10,6 +10,7 @@ To run the code, you can just download the folder on the course VM, upload it to
 Here is the demo video: https://youtu.be/bzHdC2nz8qI
 
 Files:
+README.txt
 ControlPanel.cpp
 Elevator.cpp
 Floor.cpp
