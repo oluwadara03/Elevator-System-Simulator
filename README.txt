@@ -5,7 +5,7 @@ Assignment #3 - COMP 3004
 
 The Elevator System Simulator is an application designed to simulate an elevator system based on the requirements of Raven Elevators Inc. (REI). It provides a GUI for administrators (you) to set up simulation parameters, define passenger behaviors, trigger safety events, and receive feedback from the system via a log console. You will find the code for the program in this repository.
 
-To run the code, you can just download the folder on the course VM, upload it to Qt Creator and run there. This is the better way rather than creating an executable because it  also allows you to customize and change things around before running the simulator.
+To run the code, you can just download the folder on the course VM, upload it to Qt Creator and run there. Make sure to rename the folder and update paths in the code as necessary! This is the better way rather than creating an executable because it  also allows you to customize and change things around before running the simulator.
 
 Here is the demo video: https://youtu.be/bzHdC2nz8qI
 
